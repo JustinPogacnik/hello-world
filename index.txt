@@ -8,3 +8,5 @@ Just a text test file
 1.0 0.0 1.0
 1.0 1.0 1.0
 0.0 1.0 1.0
+
+new lines added here...
